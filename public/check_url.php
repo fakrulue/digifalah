@@ -1,0 +1,1 @@
+<?php include 'vendor/autoload.php'; $app = include 'bootstrap/app.php'; echo config('app.url');
